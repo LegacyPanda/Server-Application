@@ -17,7 +17,7 @@ ECHO ~~~ SET VARIABLES ~~~
 SET docs=..\docs
 SET src=..\src
 SET bin=..\bin
-SET javaDoc=%bin%\JavaDocs
+SET javaDoc=%docs%\JavaDocs
 SET data=..\data
 
 ECHO ~~~ CLEAN ~~~

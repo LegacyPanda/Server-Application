@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"legecy.panda","l":"Client"},{"p":"legecy.panda","l":"Display"},{"p":"legecy.panda","l":"Server"}];updateSearchResults();
